@@ -1,0 +1,6 @@
+{
+  "name": "Game Start Screen and Control Configurator",
+  "description": "An immersive 3D ThreeJS React Three Fiber game lobby and arena. Features a 2D billboard spritesheet character facing the camera with 8-way keyboard movement, smooth orbital camera tracking, custom tiling floor textures, physical punch hitboxes (P), and circular energy explosion rings (O) against invading cyber crystals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
